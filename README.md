@@ -17,5 +17,7 @@ JSON API communicating with MongoDB database.
  * joi-validation: Validating user inputs. https://github.com/hapijs/joi
  * toastify: Designing notifications. https://github.com/apvarun/toastify-js 
  
-
+## Details
+* Hosting: Heroku https://www.heroku.com
+* MongoDB: mlab https://mlab.com
 
