@@ -11,11 +11,11 @@ JSON API communicating with MongoDB database.
  * Bootstrap
 
 ## JavaScript Libraries
- * Lodash: (https://github.com/lodash/lodash)
- * ReactRouter 
- * jwt-authentication
- * joi-validation
- * toastify
+ * Lodash: Manipulating arrays. https://github.com/lodash/lodash
+ * ReactRouter: Navigating pages. https://github.com/ReactTraining/react-router
+ * jwt-decode: Decoding JSON from backend. https://github.com/auth0/jwt-decode
+ * joi-validation: Validating user inputs. https://github.com/hapijs/joi
+ * toastify: Designing notifications. https://github.com/apvarun/toastify-js 
  
 
 
