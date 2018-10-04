@@ -8,7 +8,7 @@ Front end of a video rental system built in Reactjs, which communicates with the
 JSON API communicating with MongoDB database.
 
 ## Design
- * Bootstrap
+ * Bootstrap: Designing pages. https://github.com/react-bootstrap/react-bootstrap
 
 ## JavaScript Libraries
  * Lodash: Manipulating arrays. https://github.com/lodash/lodash
