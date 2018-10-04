@@ -11,7 +11,7 @@ JSON API communicating with MongoDB database.
  * Bootstrap
 
 ## JavaScript Libraries
- * Lodash
+ * Lodash: (https://github.com/lodash/lodash)
  * ReactRouter 
  * jwt-authentication
  * joi-validation
