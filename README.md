@@ -16,6 +16,7 @@ JSON API communicating with MongoDB database.
  * jwt-decode: Decoding JSON from backend. https://github.com/auth0/jwt-decode
  * joi-validation: Validating user inputs. https://github.com/hapijs/joi
  * toastify: Designing notifications. https://github.com/apvarun/toastify-js 
+ * axios: Communicating with backend. https://github.com/axios/axios
  
 ## Details
 * Hosting: Heroku https://www.heroku.com
