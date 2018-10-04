@@ -1,5 +1,21 @@
 # Video Rental System
 
+[The System is Located Here](https://shielded-ridge-81488.herokuapp.com/movies)
+
+
 Front end of a video rental system built in Reactjs, which communicates with the Back end in Nodejs, with connection to MongoDB database.
 
-[The System is Located Here](https://shielded-ridge-81488.herokuapp.com/movies)
+JSON API communicating with MongoDB database.
+
+## Design
+ * Bootstrap
+
+## JavaScript Libraries
+ * Lodash
+ * ReactRouter 
+ * jwt-authentication
+ * joi-validation
+ * toastify
+ 
+
+
